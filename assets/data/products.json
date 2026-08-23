@@ -1,0 +1,11 @@
+[
+  {"id": 1, "name": "Minimal Masa Lambası", "description": "Çalışma alanları için sıcak ışıklı, sade tasarımlı masa lambası.", "price": 749.90, "category": "Ev", "iconCode": 57415},
+  {"id": 2, "name": "Kablosuz Kulaklık", "description": "Günlük kullanım için hafif ve konforlu kablosuz kulaklık.", "price": 1299.00, "category": "Teknoloji", "iconCode": 57420},
+  {"id": 3, "name": "Seramik Kupa", "description": "Mat yüzeyli, 350 ml hacimli el yapımı görünümlü kupa.", "price": 289.50, "category": "Mutfak", "iconCode": 57801},
+  {"id": 4, "name": "Akıllı Saat", "description": "Aktivite takibi ve bildirim özelliklerine sahip spor saat.", "price": 2199.90, "category": "Teknoloji", "iconCode": 58120},
+  {"id": 5, "name": "Kanvas Sırt Çantası", "description": "Günlük kullanım için dayanıklı, çok bölmeli kanvas çanta.", "price": 899.00, "category": "Aksesuar", "iconCode": 57537},
+  {"id": 6, "name": "Not Defteri", "description": "Noktalı sayfalı, sert kapaklı ve lastik bantlı not defteri.", "price": 169.90, "category": "Kırtasiye", "iconCode": 57898},
+  {"id": 7, "name": "Sukulent Saksısı", "description": "Masa üstü kullanıma uygun dekoratif seramik saksı.", "price": 239.90, "category": "Ev", "iconCode": 58791},
+  {"id": 8, "name": "Çelik Matara", "description": "İçecekleri uzun süre koruyan 750 ml paslanmaz çelik matara.", "price": 549.00, "category": "Spor", "iconCode": 57669}
+]
+
